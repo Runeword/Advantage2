@@ -1,6 +1,6 @@
 [caps]>[escape]
-[kp-up]>[pup]
-[kp-down]>[pdown]
+[kp-up]>[vol+]
+[kp-down]>[vol-]
 [kp-left]>[prev]
 [kp-right]>[next]
 [lalt]>[delete]
@@ -13,8 +13,8 @@
 [kp-delete]>[lwin]
 [rwin]>[insert]
 [kp0]>[space]
-[kp-pup]>[vol+]
-[kp-pdown]>[vol-]
+[kp-pup]>[home]
+[kp-pdown]>[end]
 {kp-a}>{-ralt}{`}{+ralt}{a}
 {kp-rshift}{kp-a}>{-ralt}{`}{+ralt}{-rshift}{a}{+rshift}
 {kp-;}>{-ralt}{6}{+ralt}{a}

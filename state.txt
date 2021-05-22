@@ -1,0 +1,8 @@
+startup_file=dvorak.txt
+key_click_tone=OFF
+toggle_tone=OFF
+macro_disable=OFF
+macro_speed=9
+status_play_speed=9
+power_user=true
+

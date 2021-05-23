@@ -1,4 +1,5 @@
-[caps]>[escape]
+[caps]>[tab]
+[tab]>[escape]
 [kp-up]>[vol+]
 [kp-down]>[vol-]
 [kp-left]>[prev]
@@ -8,13 +9,17 @@
 [home]>[lalt]
 [kp-home]>[lalt]
 [end]>[kpshift]
+[enter]>[rctrl]
+[\]>[enter]
+[kp-/]>[\]
 [kp-end]>[kpshift]
 [delete]>[lwin]
 [kp-delete]>[lwin]
-[rwin]>[insert]
+[rwin]>[pup]
+[rctrl]>[pdown]
 [kp0]>[space]
-[kp-pup]>[home]
-[kp-pdown]>[end]
+[kp-rwin]>[home]
+[kp-rctrl]>[end]
 {kp-a}>{-ralt}{`}{+ralt}{a}
 {kp-rshift}{kp-a}>{-ralt}{`}{+ralt}{-rshift}{a}{+rshift}
 {kp-;}>{-ralt}{6}{+ralt}{a}

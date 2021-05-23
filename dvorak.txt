@@ -11,7 +11,7 @@
 [end]>[kpshift]
 [enter]>[rctrl]
 [\]>[enter]
-[kp-/]>[\]
+[kp-/]>[enter]
 [kp-end]>[kpshift]
 [delete]>[lwin]
 [kp-delete]>[lwin]

@@ -1,4 +1,5 @@
 [caps]>[escape]
+[caps]>[escape]
 [kp-up]>[pup]
 [kp-down]>[pdown]
 [kp-left]>[prev]

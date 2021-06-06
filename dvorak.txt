@@ -18,8 +18,10 @@
 [lctrl]>[pup]
 [lalt]>[pdown]
 [kp0]>[space]
-[kp-rwin]>[home]
-[kp-rctrl]>[end]
+[rwin]>[insert]
+[kp-rwin]>[insert]
+[kp-rctrl]>[delete]
+[rctrl]>[delete]
 {kp-a}>{-ralt}{`}{+ralt}{a}
 {kp-rshift}{kp-a}>{-ralt}{`}{+ralt}{-rshift}{a}{+rshift}
 {kp-;}>{-ralt}{6}{+ralt}{a}

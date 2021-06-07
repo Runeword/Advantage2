@@ -1,6 +1,6 @@
 [caps]>[escape]
-[kp-up]>[pup]
-[kp-down]>[pdown]
+[kp-up]>[home]
+[kp-down]>[end]
 [kp-left]>[prev]
 [kp-right]>[next]
 [home]>[lctrl]

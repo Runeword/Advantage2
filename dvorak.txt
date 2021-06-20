@@ -6,8 +6,12 @@
 [kp-home]>[lctrl]
 [end]>[kpshift]
 [kp-end]>[kpshift]
+[pup]>[kpshift]
+[kp-pup]>[kpshift]
 [lctrl]>[pup]
 [lalt]>[pdown]
+[pdown]>[lalt]
+[kp-pdown]>[lalt]
 [delete]>[rwin]
 [kp-delete]>[rwin]
 [rctrl]>[delete]
@@ -16,8 +20,6 @@
 [kp-enter]>[rctrl]
 [kp0]>[space]
 [\]>[enter]
-[pup]>[kpshift]
-[pdown]>[lalt]
 {kp-a}>{-ralt}{`}{+ralt}{a}
 {kp-rshift}{kp-a}>{-ralt}{`}{+ralt}{-rshift}{a}{+rshift}
 {kp-;}>{-ralt}{6}{+ralt}{a}

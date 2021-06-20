@@ -1,5 +1,7 @@
 [caps]>[escape]
 [kp-/]>[enter]
+{rshift}{lctrl}>{home}
+{rshift}{lalt}>{end}
 [home]>[lctrl]
 [kp-home]>[lctrl]
 [end]>[kpshift]
@@ -48,5 +50,3 @@
 {kp-rshift}{kp8}>{-ralt}{-rshift}{,}{+rshift}{+ralt}
 {lshift}{up}>{pup}
 {lshift}{down}>{pdown}
-{rshift}{lctrl}>{home}
-{rshift}{lalt}>{end}

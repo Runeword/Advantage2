@@ -1,7 +1,5 @@
 [caps]>[escape]
 [kp-/]>[enter]
-{rshift}{lctrl}>{home}
-{rshift}{lalt}>{end}
 [home]>[lctrl]
 [kp-home]>[lctrl]
 [end]>[kpshift]
@@ -14,6 +12,8 @@
 [kp-lalt]>[pdown]
 [pdown]>[lalt]
 [kp-pdown]>[lalt]
+{rshift}{pup}>{home}
+{rshift}{pdown}>{end}
 [delete]>[rwin]
 [kp-delete]>[rwin]
 [rctrl]>[delete]

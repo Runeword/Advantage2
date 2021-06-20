@@ -1,17 +1,13 @@
 [caps]>[escape]
-[kp-/]>[enter]
+[lalt]>[pdown]
+[kp-lalt]>[end]
 [home]>[lctrl]
 [kp-home]>[lctrl]
 [end]>[kpshift]
 [kp-end]>[kpshift]
-[pup]>[kpshift]
-[kp-pup]>[kpshift]
+[kp-/]>[enter]
 [lctrl]>[pup]
 [kp-lctrl]>[home]
-[lalt]>[pdown]
-[kp-lalt]>[end]
-[pdown]>[lalt]
-[kp-pdown]>[lalt]
 [delete]>[rwin]
 [kp-delete]>[rwin]
 [rctrl]>[delete]
@@ -20,6 +16,10 @@
 [kp-enter]>[rctrl]
 [kp0]>[space]
 [\]>[enter]
+[pup]>[kpshift]
+[kp-pup]>[kpshift]
+[pdown]>[lalt]
+[kp-pdown]>[lalt]
 {kp-a}>{-ralt}{`}{+ralt}{a}
 {kp-rshift}{kp-a}>{-ralt}{`}{+ralt}{-rshift}{a}{+rshift}
 {kp-;}>{-ralt}{6}{+ralt}{a}
@@ -50,3 +50,5 @@
 {lshift}{down}>{pdown}
 {rshift}{pup}>{kp-lctrl}
 {rshift}{pdown}>{kp-lalt}
+{rshift}{lctrl}>{kpshift}{pup}
+{rshift}{lalt}>{kpshift}{pdown}

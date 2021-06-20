@@ -1,7 +1,5 @@
 [caps]>[escape]
 [kp-/]>[enter]
-[kp-lalt]>[end]
-[kp-lctrl]>[home]
 [home]>[lctrl]
 [kp-home]>[lctrl]
 [end]>[kpshift]
@@ -9,7 +7,9 @@
 [pup]>[kpshift]
 [kp-pup]>[kpshift]
 [lctrl]>[pup]
+[kp-lctrl]>[pup]
 [lalt]>[pdown]
+[kp-lalt]>[pdown]
 [pdown]>[lalt]
 [kp-pdown]>[lalt]
 [delete]>[rwin]
@@ -48,3 +48,5 @@
 {kp-rshift}{kp8}>{-ralt}{-rshift}{,}{+rshift}{+ralt}
 {lshift}{up}>{pup}
 {lshift}{down}>{pdown}
+{lshift}{lctrl}>{home}
+{lshift}{lalt}>{end}

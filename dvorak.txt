@@ -1,6 +1,5 @@
 [caps]>[tab]
-[tab]>[lshift]
-[lshift]>[escape]
+[tab]>[escape]
 [lalt]>[pdown]
 [kp-lalt]>[end]
 [home]>[lctrl]

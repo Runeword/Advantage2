@@ -50,4 +50,4 @@
 {lshift}{up}>{pup}
 {lshift}{down}>{pdown}
 {kp-up}>{home}
-{kp-down}{end}
+{kp-down}>{end}

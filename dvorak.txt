@@ -17,10 +17,10 @@
 [kp-enter]>[rctrl]
 [kp0]>[space]
 [\]>[enter]
-[pup]>[home]
-[kp-pup]>[home]
-[pdown]>[end]
-[kp-pdown]>[end]
+[pup]>[delete]
+[kp-pup]>[delete]
+[pdown]>[ralt]
+[kp-pdown]>[ralt]
 {kp-a}>{-ralt}{`}{+ralt}{a}
 {kp-rshift}{kp-a}>{-ralt}{`}{+ralt}{-rshift}{a}{+rshift}
 {kp-;}>{-ralt}{6}{+ralt}{a}

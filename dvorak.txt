@@ -18,9 +18,9 @@
 [kp0]>[space]
 [\]>[enter]
 [pup]>[home]
-[kp-pup]>[end]
-[pdown]>[lalt]
-[kp-pdown]>[lalt]
+[kp-pup]>[home]
+[pdown]>[end]
+[kp-pdown]>[end]
 {kp-a}>{-ralt}{`}{+ralt}{a}
 {kp-rshift}{kp-a}>{-ralt}{`}{+ralt}{-rshift}{a}{+rshift}
 {kp-;}>{-ralt}{6}{+ralt}{a}

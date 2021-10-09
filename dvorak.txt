@@ -17,8 +17,8 @@
 [kp-enter]>[rctrl]
 [kp0]>[space]
 [\]>[enter]
-[pup]>[kpshift]
-[kp-pup]>[kpshift]
+[pup]>[home]
+[kp-pup]>[end]
 [pdown]>[lalt]
 [kp-pdown]>[lalt]
 {kp-a}>{-ralt}{`}{+ralt}{a}

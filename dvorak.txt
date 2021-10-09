@@ -49,3 +49,5 @@
 {kp-rshift}{kp8}>{-ralt}{-rshift}{,}{+rshift}{+ralt}
 {lshift}{up}>{pup}
 {lshift}{down}>{pdown}
+{kp-up}>{home}
+{kp-down}{end}

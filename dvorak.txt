@@ -19,8 +19,8 @@
 [\]>[enter]
 [pup]>[delete]
 [kp-pup]>[delete]
-[pdown]>[ralt]
-[kp-pdown]>[ralt]
+[pdown]>[lalt]
+[kp-pdown]>[lalt]
 {kp-a}>{-ralt}{`}{+ralt}{a}
 {kp-rshift}{kp-a}>{-ralt}{`}{+ralt}{-rshift}{a}{+rshift}
 {kp-;}>{-ralt}{6}{+ralt}{a}

@@ -1,6 +1,7 @@
 [caps]>[tab]
 [tab]>[escape]
 [lalt]>[pdown]
+[lctrl]>[pup]
 [kp-lalt]>[end]
 [home]>[lctrl]
 [kp-home]>[lctrl]

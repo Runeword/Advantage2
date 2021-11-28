@@ -16,8 +16,8 @@
 [kp-enter]>[rctrl]
 [kp0]>[space]
 [\]>[enter]
-[pup]>[delete]
-[kp-pup]>[delete]
+[pup]>[rwin]
+[kp-pup]>[rwin]
 [pdown]>[lalt]
 [kp-pdown]>[lalt]
 {kp-a}>{-ralt}{`}{+ralt}{a}

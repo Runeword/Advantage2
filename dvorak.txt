@@ -10,6 +10,8 @@
 [kp-/]>[enter]
 [delete]>[rwin]
 [kp-delete]>[rwin]
+[rwin]>[insert]
+[kp-rwin]>[insert]
 [rctrl]>[delete]
 [kp-rctrl]>[delete]
 [enter]>[rctrl]

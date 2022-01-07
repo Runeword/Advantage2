@@ -8,8 +8,6 @@
 [end]>[kpshift]
 [kp-end]>[kpshift]
 [kp-/]>[enter]
-[rwin]>[insert]
-[kp-rwin]>[kp-insert]
 [rctrl]>[delete]
 [kp-rctrl]>[delete]
 [delete]>[rwin]
@@ -20,6 +18,8 @@
 [\]>[enter]
 [pup]>[rwin]
 [kp-pup]>[rwin]
+[rwin]>[insert]
+[kp-rwin]>[kp-insert]
 [pdown]>[lalt]
 [kp-pdown]>[lalt]
 {kp-a}>{-ralt}{`}{+ralt}{a}

@@ -7,6 +7,7 @@
 [kp-home]>[pup]
 [end]>[pdown]
 [kp-end]>[pdown]
+[`][/]
 [/]>[bspace]
 [kp-/]>[bspace]
 [\]>[enter]
@@ -48,10 +49,7 @@
 {kp-rshift}{kp-y}>{-ralt}{-rshift}{'}{+rshift}{+ralt}{-rshift}{i}{+rshift}
 {kp8}>{-ralt}{,}{+ralt}
 {kp-rshift}{kp8}>{-ralt}{-rshift}{,}{+rshift}{+ralt}
-{lshift}{up}>{pup}
-{lshift}{down}>{pdown}
-{kp-up}>{pup}
-{kp-down}>{pdown}
-{kp-left}>{home}
-{kp-right}>{end}
-{`}{/}
+[kp-up]>[pup]
+[kp-down]>[pdown]
+[kp-left]>[home]
+[kp-right]>[end]

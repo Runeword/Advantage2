@@ -1,5 +1,5 @@
 [caps]>[tab]
-[tab]>[escape]
+[tab]>[\]
 [lalt]>[pdown]
 [lctrl]>[pup]
 [kp-lalt]>[end]

@@ -7,6 +7,8 @@
 [kp-home]>[pup]
 [end]>[pdown]
 [kp-end]>[pdown]
+[`]>[\]
+[\]>[`]
 [/]>[bspace]
 [kp-/]>[bspace]
 [\]>[enter]

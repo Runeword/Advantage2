@@ -1,7 +1,7 @@
 [caps]>[tab]
 [tab]>[/]
 [kp-tab]>[/]
-[=]>[/]
+[=]>[\]
 [kp-=]>[\]
 [intl-\]>[hyphen]
 [kp-insert]>[hyphen]

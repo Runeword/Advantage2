@@ -13,8 +13,6 @@
 [kp-bspace]>[kpshift]
 [rctrl]>[delete]
 [kp-rctrl]>[kp-delete]
-[space]>[kp-lctrl]
-[kp0]>[kp-lctrl]
 [home]>[lctrl]
 [kp-home]>[kp-lctrl]
 [end]>[lalt]

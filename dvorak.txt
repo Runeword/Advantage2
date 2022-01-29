@@ -47,10 +47,10 @@
 {kp-u}>{-rshift}{4}{+rshift}
 {kp-i}>{-rshift}{5}{+rshift}
 {kp-d}>{-rshift}{6}{+rshift}
-{kp-h}>{-rshift}{7}{+rshift}
-{kp-t}>{-rshift}{8}{+rshift}
-{kp-n}>{-rshift}{9}{+rshift}
-{kp-s}>{-rshift}{0}{+rshift}
+{kp4}>{-rshift}{7}{+rshift}
+{kp5}>{-rshift}{8}{+rshift}
+{kp6}>{-rshift}{9}{+rshift}
+{kpplus}>{-rshift}{0}{+rshift}
 [kp-up]>[pup]
 [kp-down]>[pdown]
 [kp-left]>[home]

@@ -41,6 +41,16 @@
 [kp-e]>[3]
 [kp-u]>[4]
 [kp-i]>[5]
+{kp-a}>{-rshift}{1}{+rshift}
+{kp-o}>{-rshift}{2}{+rshift}
+{kp-e}>{-rshift}{3}{+rshift}
+{kp-u}>{-rshift}{4}{+rshift}
+{kp-i}>{-rshift}{5}{+rshift}
+{kp-d}>{-lshift}{6}{+lshift}
+{kp-h}>{-lshift}{7}{+lshift}
+{kp-t}>{-lshift}{8}{+lshift}
+{kp-n}>{-lshift}{9}{+lshift}
+{kp-s}>{-lshift}{0}{+lshift}
 [kp-up]>[pup]
 [kp-down]>[pdown]
 [kp-left]>[home]

@@ -53,6 +53,8 @@
 {kp-rshift}{kp-right}>{-ralt}{6}{+ralt}{-rshift}{u}{+rshift}
 {kp8}>{-ralt}{,}{+ralt}
 {kp-rshift}{kp8}>{-ralt}{-rshift}{,}{+rshift}{+ralt}
+{kp-x}>{-ralt}{6}{+ralt}{i}
+{kp-rshift}{kp-x}>{-ralt}{6}{+ralt}{-rshift}{i}{+rshift}
 {kp-a}>{-rshift}{1}{+rshift}
 {kp-o}>{-rshift}{2}{+rshift}
 {kp-e}>{-rshift}{3}{+rshift}

@@ -1,4 +1,6 @@
 [caps]>[tab]
+[kp-caps]>[escape]
+[kp-tab]>[kp-caps]
 [tab]>[/]
 [kp-tab]>[/]
 [=]>[\]

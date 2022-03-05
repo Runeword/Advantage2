@@ -67,3 +67,13 @@
 {kp5}>{-lshift}{8}{+lshift}
 {kp6}>{-lshift}{9}{+lshift}
 {kpplus}>{-lshift}{0}{+lshift}
+[kp-']>[1]
+[kp-,]>[2]
+[kp-.]>[3]
+[kp-p]>[4]
+[kp-y]>[5]
+[kp-f]>[6]
+[kp7]>[7]
+[kp8]>[8]
+[kp9]>[9]
+[kpmin]>[0]

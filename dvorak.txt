@@ -2,7 +2,6 @@
 [kp-caps]>[escape]
 [kp-tab]>[kp-\]
 [tab]>[/]
-[kp-tab]>[/]
 [=]>[\]
 [kp-=]>[\]
 [intl-\]>[=]

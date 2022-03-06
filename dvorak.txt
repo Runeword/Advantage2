@@ -28,12 +28,9 @@
 [kp-rwin]>[kp-insert]
 [enter]>[lctrl]
 [kp-enter]>[kp-lctrl]
-[pup]>[rwin]
-[kp-pup]>[kp-rwin]
 [lalt]>[pdown]
 [kp-lalt]>[kp-pdown]
-[pdown]>[lalt]
-[kp-pdown]>[kp-lalt]
+[kp-\]>[kp-lalt]
 {kp-;}>{-ralt}{`}{+ralt}{a}
 {kp-rshift}{kp-;}>{-ralt}{`}{+ralt}{-rshift}{a}{+rshift}
 {kp-`}>{-ralt}{6}{+ralt}{a}

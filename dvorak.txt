@@ -12,7 +12,6 @@
 [kp-bspace]>[kpshift]
 [kp-lshift]>[bspace]
 [kp-rshift]>[kp-rwin]
-[kp0]>[kp-rshift]
 [rctrl]>[delete]
 [kp-rctrl]>[kp-delete]
 [home]>[lctrl]

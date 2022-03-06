@@ -1,7 +1,7 @@
 [caps]>[tab]
 [kp-caps]>[escape]
 [kp-tab]>[kp-`]
-[tab]>[`]
+[tab]>[bspace]
 [=]>[\]
 [kp-=]>[\]
 [intl-\]>[=]
@@ -31,7 +31,6 @@
 [kp-enter]>[kp-lctrl]
 [lalt]>[pdown]
 [kp-lalt]>[kp-pdown]
-[kp-\]>[kp-lalt]
 {kp-;}>{-ralt}{`}{+ralt}{a}
 {kp-rshift}{kp-;}>{-ralt}{`}{+ralt}{-rshift}{a}{+rshift}
 {kp-`}>{-ralt}{6}{+ralt}{a}

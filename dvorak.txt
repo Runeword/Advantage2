@@ -28,7 +28,6 @@
 [rwin]>[kp-insert]
 [kp-rwin]>[kp-insert]
 [enter]>[lctrl]
-[kp-enter]>[kp-lctrl]
 [lalt]>[pdown]
 [kp-lalt]>[kp-pdown]
 {kp-;}>{-ralt}{`}{+ralt}{a}

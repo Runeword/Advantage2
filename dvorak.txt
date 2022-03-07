@@ -11,7 +11,7 @@
 [kp-`]>[kp-hyphen]
 [bspace]>[kpshift]
 [kp-bspace]>[kpshift]
-[kp-rshift]>[kp-rwin]
+[kp0]>[kp-rwin]
 [rctrl]>[delete]
 [kp-rctrl]>[kp-delete]
 [home]>[lctrl]
